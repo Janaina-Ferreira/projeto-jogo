@@ -1,0 +1,37 @@
+/* Adicione estilos específicos para telas menores */
+@media screen and (max-width: 750px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+   
+      nav {
+        margin-top: 10px;
+    }
+    
+      .butao {
+        margin: 0;
+      }
+    
+      .slider {
+        width: 100%; /* Altere a largura para ocupar 100% da largura disponível */
+        max-width: none; /* Remova a restrição máxima de largura */
+        height: auto; /* Permita que a altura se ajuste automaticamente */
+      }
+  
+  
+    .inf{
+      display: flex; /* Certifique-se de que a classe "inf" seja exibida como flexível */
+    }
+
+      
+      
+      
+      .inf img {
+        max-width: 100%;
+        height: auto;
+        margin: 10px;
+      }
+  
+  }
+  
