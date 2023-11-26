@@ -24,7 +24,7 @@ div.todos {
 }
 
 header {
-  background-color: rgb(14, 158, 158);
+  background-color: #1F72C9;
   color: #fff;
   margin-bottom: 10px;
   padding: 10px;
@@ -59,7 +59,7 @@ a.butao {
 }
 
 a.butao:hover {
-  background-color: rgb(15, 180, 180);
+  background-color: #1F72C9;
   color: white;
 }
 
