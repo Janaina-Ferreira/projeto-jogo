@@ -30,15 +30,17 @@ div.todos {
   background-color: #1F72C9;
 
 }
-.elefante{
+.elefante,.elefantee {
   
   color: white;
   font-size: 0.9em;
-  padding: 10px;
+  padding: 2px;
   text-decoration: none;
 
+}
 
-
+.elefante{
+  padding: 10px;
 }
 
 header {
