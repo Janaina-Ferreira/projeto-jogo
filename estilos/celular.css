@@ -8,7 +8,7 @@ body {
 
 div.todos {
   min-width: 300px;
-  max-width: 1000px;
+  max-width: 1320px;
   margin: auto;
   margin-bottom: 30px;
   padding: 0px;
@@ -20,7 +20,25 @@ div.todos {
 
 .tudo {
   max-width: 100%;
+  margin: 10px;
+ 
+}
+
+.elefant{
+  margin: 2px 0px;
+ text-align: right;
+  background-color: #1F72C9;
+
+}
+.elefante{
+  
+  color: white;
+  font-size: 0.9em;
   padding: 10px;
+  text-decoration: none;
+
+
+
 }
 
 header {
@@ -71,7 +89,7 @@ img {
 .slider {
   position: relative;
   width: 100%;
-  max-width: 600px;
+  max-width: 1000px;
   margin: auto;
   overflow: hidden;
 }
