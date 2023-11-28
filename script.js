@@ -47,3 +47,7 @@ autoPlay();
 // Garantir que os slides sejam responsivos na carga da página
 makeImagesResponsive();
 
+
+
+
+
